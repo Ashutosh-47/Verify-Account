@@ -1,0 +1,78 @@
+
+body{
+    height: 100vh; /* viewheight*/
+    width: 100vw;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+    height: 53%;
+    width: 43%;
+    border: 3px solid black;
+    border-radius: 8px;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.main1{
+   text-align: center;
+    padding: 1px;
+}
+
+div h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+div p{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 1px 108px;
+}
+
+.main2{
+   margin: 20px;
+    display: flex;
+    flex-wrap:nowrap;
+    justify-content: space-between ;   
+}
+
+.main2 > div{
+    padding: 20px;
+    font-size: 30px;
+    background-color: aqua;
+  
+}
+
+input{
+    text-align: center;
+    width: 80px;
+    height: 120px;
+    font-size: 80px;
+    border: 2px solid gray;
+    border-radius: 8px;
+  
+}
+
+
+/* To remove scroll in number */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input:hover {
+    border: 3px solid blue;
+    /* box-shadow: 1px 1px; */
+}
+
+
+#ptext{
+    height: 10px;
+    width: 50px;
+}
