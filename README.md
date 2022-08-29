@@ -17,7 +17,3 @@ HOW did you make the project?
 
 Tools used : HTML and CSS
 
-WHAT features, technical things you had implemented?
-
-I had used Html and CSS properties , In HTML  I used  the class, div , id and different tags which helped me to build a basic layout
-of my webpage and I used  different CSS properties for styling the page to look more attractive some are like hovering effect and paddling and HTML input tags number, text , and  the box align at the centre and used flex properties which help in to placed everything at the right place and make site more attractive and effective. It have six sub-boxes with hovering effect where we have to write otp for verification.
